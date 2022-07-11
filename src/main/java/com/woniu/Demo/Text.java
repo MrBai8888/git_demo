@@ -18,5 +18,6 @@ public class Text {
         System.out.println("hahahaa");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("99999");
     }
 }
