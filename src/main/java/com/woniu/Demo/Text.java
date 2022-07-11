@@ -13,6 +13,7 @@ public class Text {
         System.out.println("44444");
         System.out.println("55555");
         System.out.println(66666);
+        System.out.println("00000");
         System.out.println(7777777);
         System.out.println("嘿嘿嘿嘿");
         System.out.println("hahahaa");
